@@ -11,3 +11,8 @@ You can click the Preview link to take a look at your changes.
 kali > cd <path to directory>
 kali > chmod +x install.sh
 kali > ./install.sh
+
+Username: tehrinfoujdar
+Password:
+
+
